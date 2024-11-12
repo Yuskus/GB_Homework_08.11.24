@@ -3,6 +3,8 @@
 добавьте сообщение об ошибке в список. 
 Верните новый массив строк с выполненной заменой.*/
 
+package lesson_1;
+
 import java.util.Arrays;
 
 public class Task4 {

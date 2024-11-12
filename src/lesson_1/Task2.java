@@ -4,6 +4,8 @@
 массива отрицательный, выбрасывайте исключение RuntimeException с сообщением 
 "Обнаружен отрицательный элемент".*/
 
+package lesson_1;
+
 import java.util.Arrays;
 
 public class Task2 {

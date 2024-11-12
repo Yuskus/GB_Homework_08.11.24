@@ -6,6 +6,8 @@
 отрицательным, выбрасывайте RuntimeException с сообщением 
 "Отрицательный результат разности".*/
 
+package lesson_1;
+
 import java.util.Arrays;
 
 public class Task3 {

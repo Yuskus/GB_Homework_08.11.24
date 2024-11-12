@@ -5,6 +5,8 @@
 Дополнительно, если сумма чисел превышает 100, выбрасывайте 
 ArithmeticException с сообщением "Превышен лимит суммы".*/
 
+package lesson_1;
+
 public class Task1 {
     public static void main(String[] args) {
         Execute(new String[] { "10", "20", "70" }); // корректный ввод: ожидаемый результат: 100
